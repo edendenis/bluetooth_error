@@ -53,7 +53,7 @@ Os erros indicam falhas na comunicação com dispositivos `Bluetooth`.
 
 ### 1.1 Código completo para configurar/instalar/usar
 
-Para configurar/instalar/usar o `taskbar` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
+Para configurar/instalar/usar o `erro bluetooth` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 
 1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 
